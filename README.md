@@ -1,2 +1,2 @@
 # REST-API
-TypeScript + NodejS, + SQLite
+TypeScript + Nodejs
