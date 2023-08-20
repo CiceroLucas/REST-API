@@ -1,2 +1,2 @@
 # REST-API
-TypeScript + Nodejs
+API feita usando os princípios SOLID
